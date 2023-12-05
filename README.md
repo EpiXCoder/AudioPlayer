@@ -18,7 +18,7 @@ To use the Audio Player in your HTML document, simply include the component's sc
 <html>
 <head>
     <title>Audio Player Demo</title>
-    <script src="path_to_audio_player_component.js"></script>
+    <script src="script.js"></script>
 </head>
 <body>
     <audio-player></audio-player>
