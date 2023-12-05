@@ -3,12 +3,12 @@
 AudioZuzu Web Component is a lightweight, customizable HTML5 audio player encapsulated in a web component, making it reusable across various web projects. This modern audio player offers basic functionalities such as play, pause, and track selection, with additional features like a progress bar and custom file input design. It's designed to offer a sleek and user-friendly experience, perfect for integrating audio playback into your web pages.
 
 ## Features
-- Play/Pause: Simple controls to play and pause the audio.
-- File Selection: Users can load audio tracks either through a file input (if no track is provided) or via a specified track attribute.
-- Progress Bar: Visual progress bar indicating playback progress.
-- Time Display: Shows the elapsed time and total duration of the audio track.
-- Customizable: Easy to style and customize to fit the look and feel of your website.
-- Shadow DOM: Uses Shadow DOM for style encapsulation.
+- **Play/Pause**: Simple controls to play and pause the audio.
+- **File Selection**: Users can load audio tracks either through a file input (if no track is provided) or via a specified track attribute.
+- **Progress Bar**: Visual progress bar indicating playback progress.
+- **Time Display**: Shows the elapsed time and total duration of the audio track.
+- **Customizable**: Easy to style and customize to fit the look and feel of your website.
+- **Shadow DOM**: Uses Shadow DOM for style encapsulation.
 
 ## Usage
 ### Basic Usage
