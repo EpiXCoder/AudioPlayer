@@ -1,4 +1,4 @@
-class AudioPlayer extends HTMLElement {
+class AudioZuzu extends HTMLElement {
     constructor() {
         super();
         this._shadowRoot = this.attachShadow({ mode: 'open' });
@@ -187,4 +187,4 @@ class AudioPlayer extends HTMLElement {
     }
 }
 
-customElements.define('audio-player', AudioPlayer);
+customElements.define('audio-zuzu', AudioZuzu);
